@@ -20,7 +20,7 @@ In Unity , Go to Window -> Package Manager -> Add package from git URL
 
 And use the url below
 
- `https://github.com/shaun-he/GF-Core.git?path=./` 
+ `https://github.com/shaun-he/GF-Core.git` 
 
 ### Install via disk
 

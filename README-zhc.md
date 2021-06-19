@@ -20,7 +20,7 @@ GameFramework框架核心
 
 然后把下方的连接粘贴进去，然后点击Add
 
- `https://github.com/shaun-he/GF-Core.git?path=./` 
+ `https://github.com/shaun-he/GF-Core.git` 
 
 ### 通过本地安装
 
