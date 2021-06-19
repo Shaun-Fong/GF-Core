@@ -9,6 +9,7 @@
     "gameframework",
     "core"
   ],
-  "type": "library",
+  "license": "MIT",
+  "category": "GF",
   "hideInEditor": false
 }
