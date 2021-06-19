@@ -1,0 +1,16 @@
+{
+    "name": "GF.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ca962db621d4a61488551efbac1cbbdf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
