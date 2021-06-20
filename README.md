@@ -10,6 +10,14 @@ Please take a look [GameFramework](https://github.com/EllanJiang/GameFramework) 
 
 And thanks to [EllanJiang](https://github.com/EllanJiang).
 
+## Modules
+
+Core Library doesn't have any features , you can add features after install Core Library.
+
+- [GF-EventSystem](https://github.com/shaun-he/GF-EventSystem) #1 Event System For Unity
+
+- [GF-Debugger](https://github.com/shaun-he/GF-Debugger) Powerful Debugger For Unity
+
 ## Package
 
 ### Install via git URL

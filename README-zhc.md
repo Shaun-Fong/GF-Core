@@ -10,6 +10,14 @@ GameFramework框架核心
 
 感谢E大 [EllanJiang](https://github.com/EllanJiang)。
 
+## 功能模块
+
+该核心模块不提供任何功能，但所有功能都依赖与此核心模块，所以你必须先安装该核心模块后再添加各种功能模块。
+
+- [GF-EventSystem](https://github.com/shaun-he/GF-EventSystem) 强大的事件系统
+
+- [GF-Debugger](https://github.com/shaun-he/GF-Debugger) GF的调试器，功能非常全的调试器。
+
 ## Package
 
 ### 通过Git链接安装
