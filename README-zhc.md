@@ -18,6 +18,8 @@ GameFramework框架核心
 
 - [GF-Debugger](https://github.com/shaun-he/GF-Debugger) GF的调试器，功能非常全的调试器。
 
+- [GF-ObjectPoolSystem](https://github.com/shaun-he/GF-ObjectPoolSystem) GF的对象池系统。
+
 ## Package
 
 ### 通过Git链接安装
