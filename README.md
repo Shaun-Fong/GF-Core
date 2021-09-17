@@ -2,18 +2,18 @@
 
 Core Of GameFramework
 
+This Core Module doesn't have any features , that means you have to install this Core Module before add any feature modules.
+
 [中文文档](README-zhc.md)
 
-## Core Module
-
-This Core Module doesn't have any features , that means you have to install this Core Module before add any feature modules.
+## List of feature modules
 
 - [GF-EventSystem](https://github.com/shaun-he/GF-EventSystem) #1 Event System For Unity
 
 - [GF-Debugger](https://github.com/shaun-he/GF-Debugger) Powerful Debugger For Unity
 
 - [GF-ObjectPoolSystem](https://github.com/shaun-he/GF-ObjectPoolSystem) Game Object Pool System For Unity
-- 
+
 - [GF-FsmSystem](https://github.com/shaun-he/GF-FsmSystem) Fsm System For Unity
 
 ## Install
