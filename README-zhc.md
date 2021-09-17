@@ -4,15 +4,23 @@ GameFramework框架核心
 
 [EnglishDoc](README.md)
 
+## 前言
+
+某一天，我只想使用GF其中的某个功能，但是我又不想使用整个GF，然后这个GF模块化就出来了。
+
+得益于[GameFramework](https://github.com/EllanJiang/GameFramework) 本身的优秀模块化设计，与应用层的剥离，使得这个模块化工作变得异常简单。
+
+其实我做的东西也不多，大部分是ctrl cv，然后便是把一些接口进行暴露，最后使得每个模块都能独自运行。
+
 ## 第一件事情
 
 在你做你想做的事情之前，前瞧瞧 [GameFramework](https://github.com/EllanJiang/GameFramework) 这个仓库。
 
 感谢E大 [EllanJiang](https://github.com/EllanJiang)。
 
-## 功能模块
+## 核心模块
 
-该核心模块不提供任何功能，但所有功能都依赖与此核心模块，所以你必须先安装该核心模块后再添加各种功能模块。
+该核心模块不提供任何功能，但所有功能模块都依赖此核心模块，所以你必须先安装该核心模块后再添加各种功能模块。
 
 - [GF-EventSystem](https://github.com/shaun-he/GF-EventSystem) 强大的事件系统
 
@@ -20,7 +28,9 @@ GameFramework框架核心
 
 - [GF-ObjectPoolSystem](https://github.com/shaun-he/GF-ObjectPoolSystem) GF的对象池系统。
 
-## Package
+- [GF-FsmSystem](https://github.com/shaun-he/GF-FsmSystem) GF的状态机系统。如GF的流程功能就是运用了该状态机，但扩展功能绝不仅于此。
+
+## 安装
 
 ### 通过Git链接安装
 
