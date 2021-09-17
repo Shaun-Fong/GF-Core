@@ -4,23 +4,19 @@ Core Of GameFramework
 
 [中文文档](README-zhc.md)
 
-## First Thing
+## Core Module
 
-Please take a look [GameFramework](https://github.com/EllanJiang/GameFramework) first.
-
-And thanks to [EllanJiang](https://github.com/EllanJiang).
-
-## Modules
-
-Core Library doesn't have any features , you can add features after install Core Library.
+This Core Module doesn't have any features , that means you have to install this Core Module before add any feature modules.
 
 - [GF-EventSystem](https://github.com/shaun-he/GF-EventSystem) #1 Event System For Unity
 
 - [GF-Debugger](https://github.com/shaun-he/GF-Debugger) Powerful Debugger For Unity
 
 - [GF-ObjectPoolSystem](https://github.com/shaun-he/GF-ObjectPoolSystem) Game Object Pool System For Unity
+- 
+- [GF-FsmSystem](https://github.com/shaun-he/GF-FsmSystem) Fsm System For Unity
 
-## Package
+## Install
 
 ### Install via git URL
 
