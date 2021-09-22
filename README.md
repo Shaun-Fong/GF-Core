@@ -36,4 +36,4 @@ And use the url below
 
 3. In Unity , Go to Window -> Package Manager -> Add package from disk
 
-4. open the **package.json** which in your unzip folder.
+4. open the **package.json** in the extracted folder.
